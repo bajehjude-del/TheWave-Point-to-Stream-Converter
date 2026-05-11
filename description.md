@@ -1,0 +1,1 @@
+A Solidity contract that converts Drips Wave sprint points into proportional ERC-20 token streams. At sprint end, the manager commits a Merkle root of point allocations. Contributors claim a continuous per-second Drips stream proportional to their points, ensuring payment flows over time instead of a lump sum.
